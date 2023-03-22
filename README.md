@@ -7,4 +7,4 @@ In this repository, you will find the walkthroughs and challenges for the second
 - Feature Engineering Challenge
 
 
-*Datasets for each notebook are also available in the repo.
+*Datasets for each notebook are also available in the repo.*
